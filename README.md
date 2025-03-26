@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://github.com/gazibo-Pixel/chaos-walk-tracker/raw/main/ChatGPT Image Mar 25, 2025, 10_20_27 PM" alt="Chaos Walk Tracker Logo" width="300"/>
+  <img src="https://github.com/gazibo-Pixel/chaos-walk-tracker/raw/main/chaos-walk-tracker-logo.png" alt="Chaos Walk Tracker Logo" width="300"/>
 </p>
 
 <p align="center"><strong>Track the Weird. Walk the Pathless.</strong></p>
+
+# Chaos Walk Tracker
+
+> A ritual-powered, data-informed personal observability project
+
 
 # Chaos Walk Tracker
 
